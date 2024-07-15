@@ -17,12 +17,4 @@ module.exports = {
     },
   },
   plugins: [],
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 59aff79 (last Changes)
-=======
-}
->>>>>>> Stashed changes
